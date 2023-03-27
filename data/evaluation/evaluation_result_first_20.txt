@@ -1,0 +1,641 @@
+Task 1
+
+Instruction: The sentence you are given might be too wordy, complicated, or unclear. Rewrite the sentence and make your writing clearer by keeping it concise. Whenever possible, break complex sentences into multiple sentences and eliminate unnecessary words.
+
+Input: If you have any questions about my rate or if you find it necessary to increase or decrease the scope for this project, please let me know.
+
+Alpaca-LoRA-7B: If you have any questions about my rate, or if you find it necessary to increase or decrease the scope for this project, please let me know.
+
+
+Instruction (DE): Der Satz, der dir vorgegeben wird, könnte zu wortreich, kompliziert oder unklar sein. Schreibe den Satz um und mache ihn klarer, indem du dich kurz fasst. Wann immer möglich, solltest du komplexe Sätze in mehrere Sätze aufteilen und unnötige Wörter streichen.
+
+Input (DE): Wenn du Fragen zu meinem Tarif hast oder wenn du es für nötig hältst, den Umfang für dieses Projekt zu erhöhen oder zu verringern, lass es mich bitte wissen.
+
+Alpaca-LoRA-7B-DeepL-12k: Wenn du Fragen zu meinem Tarif hast oder wenn du es für nötig hältst, den Umfang für dieses Projekt zu erhöhen oder zu verringern, lass es mich bitte wissen.
+
+Alpaca-LoRA-7B-DeepL-4k: Wenn du Fragen zu meinem Tarif hast oder wenn du es für nötig hältst, den Umfang für dieses Projekt zu erhöhen oder zu verringern, lass es mich bitte wissen.
+
+Alpaca-LoRA-7B-OpenAI-12k: Wenn du Fragen zu meinem Tarif hast oder wenn du es für nötig hältst, den Umfang für dieses Projekt zu erhöhen oder zu verringern, lass es mich bitte wissen.
+
+
+
+
+
+Task 2
+
+Instruction: You are given a paper citation, convert it to the requested citation style.
+
+Input: Chicago: Vaswani, Ashish, Shazeer, Noam, Parmar, Niki, Uszkoreit, Jakob, Jones, Llion, Gomez, Aidan N., Kaiser, Lukasz, and Illia Polosukhin. "Attention Is All You Need." arXiv, (2017). https://doi.org/10.48550/arXiv.1706.03762.
+MLA:
+
+Alpaca-LoRA-7B: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L.L., Gomez, A.N., Kaiser, L., & Polosukhin, I. (2017). Attention Is All You Need. arXiv, https://doi.org/10.48550/arXiv.1706.03762.
+
+
+Instruction (DE): Wenn du ein Zitat erhältst, wandle es in den gewünschten Zitierstil um.
+
+Input (DE): Chicago: Vaswani, Ashish, Shazeer, Noam, Parmar, Niki, Uszkoreit, Jakob, Jones, Llion, Gomez, Aidan N., Kaiser, Lukasz, und Illia Polosukhin. "Attention Is All You Need." arXiv, (2017). https://doi.org/10.48550/arXiv.1706.03762.
+MLA:
+
+Alpaca-LoRA-7B-DeepL-12k: Chicago: Vaswani, Ashish, Shazeer, Noam, Parmar, Niki, Uszkoreit, Jakob, Jones, Llion, Gomez, Aidan N., Kaiser, Lukasz, und Illia Polosukhin. "Attention Is All You Need." arXiv, (2017). https://doi.org/10.48550/arXiv.1706.03762.
+
+Alpaca-LoRA-7B-DeepL-4k: Vaswani, Ashish, Shazeer, Noam, Parmar, Niki, Uszkoreit, Jakob, Jones, Llion, Gomez, Aidan N., Kaiser, Lukasz, und Illia Polosukhin. "Attention Is All You Need." arXiv, (2017). https://doi.org/10.48550/arXiv.1706.03762.
+
+Alpaca-LoRA-7B-OpenAI-12k: Chicago: Vaswani, Ashish, Shazeer, Noam, Parmar, Niki, Uszkoreit, Jakob, Jones, Llion, Gomez, Aidan N., Kaiser, Lukasz, and Illia Polosukhin. "Attention Is All You Need." arXiv, (2017). https://doi.org/10.48550/arXiv.1706.03762.
+
+
+
+
+
+Task 3
+
+Instruction: If you could help me write an email to my friends inviting them to dinner on Friday, it would be greatly appreciated.
+
+Input: 
+
+Alpaca-LoRA-7B: Dear Friends, 
+
+I hope this email finds you well. 
+
+I wanted to invite you all to join me for dinner on Friday evening. It's been a while since we've all gotten together, so I thought it would be a great opportunity to catch up and have some fun. 
+
+I'm planning on cooking up a delicious meal, so I hope you can make it! 
+
+Let me know if you can make it, and I look forward to seeing you soon. 
+
+Sincerely, 
+[Your Name]
+
+
+Instruction (DE): Wenn du mir helfen könntest, eine E-Mail an meine Freunde zu schreiben, in der ich sie zum Abendessen am Freitag einlade, wäre ich dir sehr dankbar.
+
+Input (DE): 
+
+Alpaca-LoRA-7B-DeepL-12k: Hallo Freunde,
+
+Ich möchte euch am Freitagabend zum Abendessen einladen. Ich denke, es wäre eine tolle Gelegenheit, euch alle zusammen zu treffen und ein paar gute Stunden zu verbringen.
+
+Ich freue mich auf eure Antwort.
+
+Liebe Grüße,
+
+Alpaca-LoRA-7B-DeepL-4k: Ich würde mich freuen, wenn du mir helfen könntest, eine E-Mail an meine Freunde zu schreiben, in der ich sie zum Abendessen am Freitag einlade.
+
+Alpaca-LoRA-7B-OpenAI-12k: Hallo Freunde,
+
+Ich möchte euch am Freitagabend zum Abendessen einladen. Ich denke, es wäre eine tolle Gelegenheit, uns alle zusammen zu treffen und ein paar gute Stunden zu verbringen.
+
+Ich freue mich darauf, euch bald zu sehen!
+
+
+
+
+
+Task 4
+
+Instruction: Write a social media post about the call for collaboration on a crowdsourcing project in a persuasive way.
+
+Input: 
+
+Alpaca-LoRA-7B: Are you passionate about making a difference in your community? Join us in our crowdsourcing project and help us make a positive impact! Together, we can make a difference and create a better future for all. #Collaboration #Crowdsourcing #MakingADifference
+
+
+Instruction (DE): Schreibe einen Social-Media-Post über den Aufruf zur Mitarbeit an einem Crowdsourcing-Projekt auf überzeugende Art und Weise.
+
+Input (DE): 
+
+Alpaca-LoRA-7B-DeepL-12k: Hier ist deine Chance, die Welt zu verändern! Unterstütze uns bei unserem Crowdsourcing-Projekt und hilf uns, die Welt zu einem besseren Ort zu machen!
+
+Alpaca-LoRA-7B-DeepL-4k: Das Crowdsourcing-Projekt bietet die Möglichkeit, sich für eine gute Sache einzusetzen. Wir brauchen euch, um die Welt zu verändern!
+
+Alpaca-LoRA-7B-OpenAI-12k: Hier ist deine Chance, die Welt zu verändern! Unterstütze uns bei unserem Crowdsourcing-Projekt und hilf uns, die Welt besser zu machen!
+
+
+
+
+
+Task 5
+
+Instruction: My favorite witty review of The Rings of Power series is this:
+
+Input: 
+
+Alpaca-LoRA-7B: The Rings of Power series by J.R.R. Tolkien is a masterpiece of epic fantasy literature. It's filled with adventure, mystery, and intrigue, and it's a must-read for any fan of the genre.
+
+
+Instruction (DE): Meine witzige Lieblingskritik zur Serie "Die Ringe der Macht" ist diese:
+
+Input (DE): 
+
+Alpaca-LoRA-7B-DeepL-12k: Meine witzige Lieblingskritik zur Serie "Die Ringe der Macht" lautet: "Sie ist so gut, dass du sie nicht vergessen kannst!"
+
+Alpaca-LoRA-7B-DeepL-4k: Die Serie "Die Ringe der Macht" ist witzig und unterhaltsam.
+
+Alpaca-LoRA-7B-OpenAI-12k: Meine witzige Lieblingskritik zur Serie "Die Ringe der Macht" lautet: "Das ist die schlechteste Serie, die ich je gesehen habe!"
+
+
+
+
+
+Task 6
+
+Instruction: A helpful writing exercise is writing a story without using adjectives or adverbs. This will help you learn to use other words and phrases to describe what you are trying to say. Here are some examples:
+
+Input: 
+
+Alpaca-LoRA-7B: The sun shone brightly in the sky. The birds chirped happily in the trees. The wind blew gently through the leaves. The grass was lush and green.
+
+The sun shone brightly in the sky. The birds chirped happily in the trees. The wind blew gently through the leaves. The grass was lush and green.
+
+The sun shone brightly in the sky. The birds chirped happily in the trees. The wind blew gently through the leaves. The grass was lush and green.
+
+The sun shone
+
+
+Instruction (DE): Eine hilfreiche Schreibübung ist es, eine Geschichte zu schreiben, ohne Adjektive oder Adverbien zu verwenden. So lernst du, andere Wörter und Ausdrücke zu verwenden, um das zu beschreiben, was du sagen willst. Hier sind einige Beispiele:
+
+Input (DE): 
+
+Alpaca-LoRA-7B-DeepL-12k: Der Himmel war blau und die Sonne schien hell.
+
+Alpaca-LoRA-7B-DeepL-4k: Der Mann ging langsam durch die Stadt.
+
+Alpaca-LoRA-7B-OpenAI-12k: Der Himmel war tiefblau und die Sonne schien hell.
+
+
+
+
+
+Task 7
+
+Instruction: Come up with some search queries on google about coding stuff.
+
+Input: 
+
+Alpaca-LoRA-7B: 1. What are the best coding languages to learn?
+2. How to become a software engineer?
+3. What is the best way to learn coding?
+4. What are the best coding bootcamps?
+5. What are the best coding tutorials?
+6. What are the best coding books?
+7. What are the best coding websites?
+8. What are the best coding courses?
+9. What are the best coding platforms?
+10. What are the best coding platforms for beginners?
+
+
+Instruction (DE): Gib bei Google ein paar Suchanfragen zum Thema Codierung ein.
+
+Input (DE): 
+
+Alpaca-LoRA-7B-DeepL-12k: 1. Was ist Codierung?
+2. Was ist Codierung?
+3. Was ist Codierung?
+4. Was ist Codierung?
+5. Was ist Codierung?
+6. Was ist Codierung?
+7. Was ist Codierung?
+8. Was ist Codierung?
+9. Was ist Codierung?
+10. Was ist Codierung?
+11. Was ist Codierung?
+12. Was ist Codierung?
+13. Was ist Codierung?
+14. Was ist C
+
+Alpaca-LoRA-7B-DeepL-4k: 1. Was ist Codierung?
+2. Was ist Codierung in der Informatik?
+3. Was ist Codierung in der Programmierung?
+4. Was ist Codierung in der Mathematik?
+5. Was ist Codierung in der Biologie?
+6. Was ist Codierung in der Chemie?
+7. Was ist Codierung in der Physik?
+
+Alpaca-LoRA-7B-OpenAI-12k: 1. What is machine learning?
+2. What is deep learning?
+3. What is the difference between machine learning and deep learning?
+4. What are the different types of machine learning algorithms?
+5. What are the advantages and disadvantages of machine learning?
+6. What is the difference between supervised and unsupervised learning?
+7. What are the different types of supervised learning algorithms?
+8. What are the different types of unsupervised learning algorithms?
+9. What is reinforcement learning?
+10. What are the different types of reinforcement learning algorithms
+
+
+
+
+
+Task 8
+
+Instruction: Discover the most relevant StackOverflow questions for your search term. And output a list of their URLs.
+
+Input: remove item in array
+
+Alpaca-LoRA-7B: The most relevant StackOverflow questions for the search term "remove item in array" are:
+
+1. [How to remove an item from an array in JavaScript?](https://stackoverflow.com/questions/1887099/how-to-remove-an-item-from-an-array-in-javascript)
+2. [How to remove an item from an array in JavaScript?](https://stackoverflow.com/questions/1887099/how-to-remove-an-item-from-an-array-in-javascript)
+3. [How to
+
+
+Instruction (DE): Entdecke die relevantesten StackOverflow-Fragen zu deinem Suchbegriff. Und gib eine Liste mit ihren URLs aus.
+
+Input (DE): Element im Array entfernen
+
+Alpaca-LoRA-7B-DeepL-12k: [1] https://stackoverflow.com/questions/119223/how-do-i-remove-an-element-from-an-array-in-javascript
+[2] https://stackoverflow.com/questions/119223/how-do-i-remove-an-element-from-an-array-in-javascript
+[3] https://stackoverflow.com/questions/119223/how-do-i-remove-an-element-from-an-array-in-javascript
+
+Alpaca-LoRA-7B-DeepL-4k: Die folgende Liste enthält die relevantesten StackOverflow-Fragen zu "Element im Array entfernen":
+
+* https://stackoverflow.com/questions/1192238/how-do-i-remove-an-element-from-an-array-in-javascript
+* https://stackoverflow.com/questions/100570/how-do-i-remove-an-element-from-an-array-in-javascript
+* https://stackoverflow.com/questions/1192238/how-do-i-remove-an
+
+Alpaca-LoRA-7B-OpenAI-12k: 1. How to remove an element from an array in JavaScript
+2. How to remove an element from an array in JavaScript
+3. How to remove an element from an array in JavaScript
+4. How to remove an element from an array in JavaScript
+5. How to remove an element from an array in JavaScript
+6. How to remove an element from an array in JavaScript
+7. How to remove an element from an array in JavaScript
+8. How to remove an element from an array in JavaScript
+9. How to remove an element from an array in JavaScript
+10. How to remove an element from an
+
+
+
+
+
+Task 9
+
+Instruction: You are given an algorithm or a search query about coding. Look for a code snippet related to the search query.
+
+Input: Python loop
+
+Alpaca-LoRA-7B: for i in range(10):
+    print(i)
+
+
+Instruction (DE): Du bekommst einen Algorithmus oder eine Suchanfrage zum Thema Kodierung. Suche nach einem Codeschnipsel, der mit der Suchanfrage zusammenhängt.
+
+Input (DE): Python-Schleife
+
+Alpaca-LoRA-7B-DeepL-12k: for i in range(10):
+    print(i)
+
+Alpaca-LoRA-7B-DeepL-4k: Python-Schleife
+
+Alpaca-LoRA-7B-OpenAI-12k: Python-Schleife
+
+
+
+
+
+Task 10
+
+Instruction: We have entered the home supplies budget in the following table. Calculate the last column with the given function and rewrite the completed table.
+Note that, columns in a row are separated using a comma, and rows are separated using a "|".
+
+Input: Item, Qty, Price, Subtotal | mango, 5, 500, ? | apple, 4, 150, ? | oil, 2, 1500, ?  
+Function: column2 * column 3
+
+Alpaca-LoRA-7B: Item, Qty, Price, Subtotal | mango, 5, 500, 2500 | apple, 4, 150, 600 | oil, 2, 1500, 3000
+
+
+Instruction (DE): Wir haben das Budget für Haushaltswaren in die folgende Tabelle eingetragen. Berechne die letzte Spalte mit der angegebenen Funktion und schreibe die fertige Tabelle neu.
+Beachte, dass die Spalten in einer Zeile durch ein Komma und die Zeilen durch ein "|" getrennt sind.
+
+Input (DE): Artikel, Menge, Preis, Zwischensumme | Mango, 5, 500, ? | Apfel, 4, 150, ? | Öl, 2, 1500, ?
+Funktion: Spalte2 * Spalte 3
+
+Alpaca-LoRA-7B-DeepL-12k: | Mango, 5, 500, 2500 | Apfel, 4, 150, 600 | Öl, 2, 1500, 3000
+
+Alpaca-LoRA-7B-DeepL-4k: | Mango, 5, 500, 2500 | Apfel, 4, 150, 400 | Öl, 2, 1500, 3000
+
+Alpaca-LoRA-7B-OpenAI-12k: | Mango, 500 | Apfel, 1500 | Öl, 1500
+
+
+
+
+
+Task 11
+
+Instruction: What are the steps to using random (yet coherent) text as filler content within your Word document?
+
+Input: 
+
+Alpaca-LoRA-7B: The steps to using random (yet coherent) text as filler content within your Word document are as follows:
+
+1. Open the Word document.
+2. Select the text you want to use as filler content.
+3. Right-click on the selected text and select "Format Text" from the menu.
+4. In the "Font" tab, select the "Random Text" option.
+5. Click "OK" to save the changes.
+6. Select the text you want to use as filler content.
+7. Right-click on the selected text and select "
+
+
+Instruction (DE): Was sind die Schritte, um zufälligen (aber zusammenhängenden) Text als Fülltext in deinem Word-Dokument zu verwenden?
+
+Input (DE): 
+
+Alpaca-LoRA-7B-DeepL-12k: Die Schritte, um zufälligen (aber zusammenhängenden) Text als Fülltext in deinem Word-Dokument zu verwenden, sind folgende:
+1. Öffne dein Word-Dokument.
+2. Klicke auf das Textfeld, in dem du den Fülltext verwenden möchtest.
+3. Klicke auf "Zufälliger Text".
+4. Klicke auf "Zufälliger Text".
+5. Klicke auf "Zufälliger Text".
+6. Klicke auf
+
+Alpaca-LoRA-7B-DeepL-4k: Für die Verwendung von zufälligen (aber zusammenhängenden) Text als Fülltext in einem Word-Dokument gibt es verschiedene Möglichkeiten:
+
+1. Mit der Funktion "Zufälliger Text" in der Eingabefensterleiste.
+2. Mit der Funktion "Zufälliger Text" in der Eingabefensterleiste.
+3. Mit der Funktion "Zufälliger Text" in der Eingabefensterleiste.
+4. Mit der Funktion "Zufälliger Text" in der Eing
+
+Alpaca-LoRA-7B-OpenAI-12k: Die Schritte, um zufälligen (aber zusammenhängenden) Text als Fülltext in deinem Word-Dokument zu verwenden, sind:
+1. Öffnen deines Word-Dokuments.
+2. Klicken auf das Textfeld, in dem du den Fülltext verwenden möchtest.
+3. Klicken auf die Schaltfläche "Zufälliger Text".
+4. Klicken auf die Schaltfläche "Zufälliger Text".
+5. Klicken auf die Schaltfläche "
+
+
+
+
+
+Task 12
+
+Instruction: Design a soothing pastel color palette for your slides. Pastel colors generally come across as pretty and delicate, so you’ll want to make sure your presentation calls for a similar mood. Choose up to five colors or color codes.
+
+Input: 
+
+Alpaca-LoRA-7B: A soothing pastel color palette for your slides could include light pink, light blue, light green, light yellow, and light purple.
+
+
+Instruction (DE): Entwirf eine beruhigende Pastellfarbpalette für deine Folien. Pastellfarben wirken im Allgemeinen hübsch und zart, also solltest du sicherstellen, dass deine Präsentation eine ähnliche Stimmung vermittelt. Wähle bis zu fünf Farben oder Farbcodes.
+
+Input (DE): 
+
+Alpaca-LoRA-7B-DeepL-12k: Pastellfarben: Rosa, Gelb, Grün, Blau und Violett.
+
+Alpaca-LoRA-7B-DeepL-4k: Pastellfarbpalette: #FFF5F5, #FFF5F5, #FFF5F5, #FFF5F5, #FFF5F5, #FFF5F5, #FFF5F5, #FFF5F5, #FFF5F5, #FFF5F5, #FFF5F5, #FFF5F5, #FFF5F5, #FFF5F5, #FFF5F5, #FFF5F5, #FFF5F5, #
+
+Alpaca-LoRA-7B-OpenAI-12k: Pastellfarben: Rosa, Gelb, Grün, Blau und Violett.
+
+
+
+
+
+Task 13
+
+Instruction: Find sentences from reliable sources such as the Guardian or Forbes that contain the exact match for the given sentence or phrase. Also, mention the source of each sentence.
+
+Input: There are great options
+
+Alpaca-LoRA-7B: 1. Forbes: "There are great options for those looking to invest in the stock market." (Source: Forbes)
+2. The Guardian: "There are great options for those looking to invest in the stock market." (Source: The Guardian)
+
+
+Instruction (DE): Finde Sätze aus verlässlichen Quellen wie dem Guardian oder Forbes, die genau den gleichen Satz oder die gleiche Phrase enthalten. Gib auch die Quelle für jeden Satz an.
+
+Input (DE): Es gibt tolle Optionen
+
+Alpaca-LoRA-7B-DeepL-12k: Guardian: "Es gibt tolle Optionen"
+Forbes: "Es gibt tolle Optionen"
+
+Alpaca-LoRA-7B-DeepL-4k: Guardian: "Es gibt tolle Optionen, wenn es darum geht, sicherzustellen, dass Sie sicher sind."
+Forbes: "Es gibt tolle Optionen, wenn es darum geht, sicherzustellen, dass Sie sicher sind."
+Guardian: "Es gibt tolle Optionen, wenn es darum geht, sicherzustellen, dass Sie sicher sind."
+Forbes: "Es gibt tolle Optionen, wenn es darum geht, sicherzustellen, dass Sie sicher sind."
+
+Alpaca-LoRA-7B-OpenAI-12k: 1. Forbes: There are great options available.
+2. The Guardian: There are great options available.
+
+
+
+
+
+Task 14
+
+Instruction: Design a skill assessment questioner for R (Programming Language).
+
+Input: 
+
+Alpaca-LoRA-7B: 1. What is the purpose of the for loop in R?
+2. What is the purpose of the if statement in R?
+3. What is the purpose of the while loop in R?
+4. What is the purpose of the switch statement in R?
+5. What is the purpose of the function in R?
+6. What is the purpose of the data frame in R?
+7. What is the purpose of the vector in R?
+8. What is the purpose of the matrix in R?
+9. What is the purpose of the list in R?
+10. What is
+
+
+Instruction (DE): Entwirf einen Fragebogen zur Bewertung von Fähigkeiten für R (Programmiersprache).
+
+Input (DE): 
+
+Alpaca-LoRA-7B-DeepL-12k: 1. Welche Programmiersprache kennst du?
+2. Welche Programmiersprache kennst du am besten?
+3. Welche Programmiersprache kennst du am besten?
+4. Welche Programmiersprache kennst du am besten?
+5. Welche Programmiersprache kennst du am besten?
+6. Welche Programmiersprache kennst du am besten?
+7. Welche Programmiersprache kennst du am besten?
+8. Welche
+
+Alpaca-LoRA-7B-DeepL-4k: Fragebogen zur Bewertung von Fähigkeiten für R (Programmiersprache):
+
+1. Welche Programmiersprache kenntst du?
+2. Welche Programmiersprache hast du am häufigsten verwendet?
+3. Welche Programmiersprache hast du am besten verstanden?
+4. Welche Programmiersprache hast du am besten programmiert?
+5. Welche Programmiersprache hast du am besten analysiert?
+6. Welche Programmiersprache hast du am besten
+
+Alpaca-LoRA-7B-OpenAI-12k: Fragebogen zur Bewertung von Fähigkeiten für R:
+
+1. Welche Programmiersprache kenne ich?
+2. Welche Programmiersprachen kenne ich?
+3. Welche Programmiersprachen kenne ich am besten?
+4. Welche Programmiersprachen kenne ich am meisten?
+5. Welche Programmiersprachen kenne ich am besten?
+6. Welche Programmiersprachen kenne ich am meisten?
+7. Welche Programmierspra
+
+
+
+
+
+Task 15
+
+Instruction: Take the title of the product and extract its attributes. The attributes in this case refer to the characteristics of the products, such as their brand and color. Your answer must a list following the format of "attribute: value".
+
+Input: SAMSUNG 980 PRO SSD 2TB PCIe NVMe Gen 4 Gaming M.2 Internal Solid State Hard Drive Memory Card, Maximum Speed, Thermal Control, MZ-V8P2T0B
+
+Alpaca-LoRA-7B: Brand: Samsung 
+Color: 980 Pro SSD 
+Maximum Speed: PCIe NVMe Gen 4 
+Thermal Control: MZ-V8P2T0B
+
+
+Instruction (DE): Nimm den Titel des Produkts und extrahiere seine Attribute. Die Attribute beziehen sich in diesem Fall auf die Eigenschaften der Produkte, wie z.B. ihre Marke und Farbe. Deine Antwort muss eine Liste sein, die das Format "Attribut: Wert" hat.
+
+Input (DE): SAMSUNG 980 PRO SSD 2TB PCIe NVMe Gen 4 Gaming M.2 Internal Solid State Hard Drive Speicherkarte, maximale Geschwindigkeit, thermische Kontrolle, MZ-V8P2T0B
+
+Alpaca-LoRA-7B-DeepL-12k: MZ-V8P2T0B
+
+Alpaca-LoRA-7B-DeepL-4k: MZ-V8P2T0B
+
+Alpaca-LoRA-7B-OpenAI-12k: MZ-V8P2T0B
+
+
+
+
+
+Task 16
+
+Instruction: Write a short description about the given movie or series.
+
+Input: The Witcher (2019)
+
+Alpaca-LoRA-7B: The Witcher (2019) is an epic fantasy series based on the best-selling novels by Andrzej Sapkowski. It follows Geralt of Rivia (Henry Cavill), a monster hunter who is tasked with protecting a young princess, Ciri (Freya Allan). Along the way, Geralt encounters a wide range of characters and creatures, from powerful sorceresses to fearsome beasts.
+
+
+Instruction (DE): Schreibe eine kurze Beschreibung über den angegebenen Film oder die Serie.
+
+Input (DE): The Witcher (2019)
+
+Alpaca-LoRA-7B-DeepL-12k: The Witcher (2019) ist eine Fantasy-Fernsehserie, die auf den gleichnamigen Romanen von Andrzej Sapkowski basiert.
+
+Alpaca-LoRA-7B-DeepL-4k: The Witcher (2019) ist eine Fantasy-Fernsehserie, die auf der gleichnamigen Buchreihe von Andrzej Sapkowski basiert.
+
+Alpaca-LoRA-7B-OpenAI-12k: The Witcher (2019) ist eine Fantasy-Fernsehserie, basierend auf den gleichnamigen Büchern von Andrzej Sapkowski.
+
+
+
+
+
+Task 17
+
+Instruction: Provide an example of how a table of contents can be generated automatically in a LATEX document. Make sure your example contains the necessary commands.
+
+Input: 
+
+Alpaca-LoRA-7B: \begin{verbatim}
+\tableofcontents
+\end{verbatim}
+
+
+Instruction (DE): Gib ein Beispiel dafür, wie ein Inhaltsverzeichnis automatisch in einem LATEX-Dokument erstellt werden kann. Achte darauf, dass dein Beispiel die notwendigen Befehle enthält.
+
+Input (DE): 
+
+Alpaca-LoRA-7B-DeepL-12k: \begin{document}
+\tableofcontents
+\end{document}
+
+Alpaca-LoRA-7B-DeepL-4k: \begin{document}
+\tableofcontents
+\end{document}
+
+Alpaca-LoRA-7B-OpenAI-12k: \begin{document}
+\tableofcontents
+\end{document}
+
+
+
+
+
+Task 18
+
+Instruction: Choose Spotify playlists that match the given mood. Provide a link to these playlists for easy access.
+
+Input: Feeling Good
+
+Alpaca-LoRA-7B: Here are some Spotify playlists that match the mood of feeling good: 
+
+1. Feeling Good: https://open.spotify.com/playlist/5X7X7X7X7X7X7X7X7
+2. Feel Good Vibes: https://open.spotify.com/playlist/5X7X7X7X7X7X7X7X
+3. Happy Vibes: https://open.spotify.com/playlist/5X7X7X7X7X7X7X
+
+
+Instruction (DE): Wähle Spotify-Playlists aus, die zu der jeweiligen Stimmung passen. Gib einen Link zu diesen Wiedergabelisten an, damit sie leicht zugänglich sind.
+
+Input (DE): Sich gut fühlen
+
+Alpaca-LoRA-7B-DeepL-12k: https://open.spotify.com/playlist/66X6666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666
+
+Alpaca-LoRA-7B-DeepL-4k: Spotify-Playlists, die sich gut anpassen, wenn man sich gut fühlen möchte:
+
+1. Chill Out: https://open.spotify.com/playlist/3X73X7X7X3X73X7X7
+2. Relaxing Music: https://open.spotify.com/playlist/3X73X7X7X3X73X7X7
+3. Calm Down: https://open.spotify.com/playlist/3X73X7X7X
+
+Alpaca-LoRA-7B-OpenAI-12k: https://open.spotify.com/playlist/5XK3X7X7X7X7XK3X7X7X7X7X7X7X7X7X7X7X7X7X7X7X7X7X7X7X7X7X7X7X7X7X7X7X7X7X7X7X7X7X7X7X7X7X7X7X7X7X7X7X7X7X7X7X7X7X7X7
+
+
+
+
+
+Task 19
+
+Instruction: You should take the time to read the situation and problem carefully and give the best advice you can.
+
+Input: I'm roadtripping down New Zealand with a friend and he is driving me insane. He hasn't enjoyed all the tours we've been on and doesn't want to chat about ANYTHING. We're a week into our trip and this is the quietest I've ever been when hanging out with another person as he rebuffs all my attempts at conversation. He wears his airpods in the car and around the accommodation - not that I've kept trying to talk to him. Honestly, he is bringing some seriously bad vibes to everything and it's ruining my trip.
+We don't have anything booked in yet for the South Island, so I'm planning to ditch him in Wellington at the ferry. Probably book my own car in Picton and just relax alone for the rest of the trip. (Just thinking about it is such sharp relief that it makes me feel emotional. I'll pay whatever price I have to just to get away from him.)
+Obviously telling him he is ruining my trip with his negative energy isn't the best way to approach this.
+Any advice for the best approach so we can split amicably? Or at least not have an argument that ends with very hurt feelings?
+
+Alpaca-LoRA-7B: It sounds like your friend is bringing a lot of negativity to your trip, which is understandably frustrating. The best way to approach this situation is to have a conversation with your friend and try to understand why he is acting this way. It could be that he is feeling overwhelmed by the trip and needs some time to himself, or it could be that he is dealing with some personal issues that are affecting his mood. Whatever the reason, it is important to have a conversation with him and try to understand what is going on.
+
+If your friend is not open to talking about his feelings
+
+
+Instruction (DE): Du solltest dir die Zeit nehmen, die Situation und das Problem genau zu lesen und den bestmöglichen Rat zu geben.
+
+Input (DE): Ich bin mit einem Freund auf einem Roadtrip durch Neuseeland und er macht mich wahnsinnig. Ihm haben alle Touren, auf denen wir waren, keinen Spaß gemacht und er will über gar nichts reden. Seit einer Woche sind wir unterwegs und so still wie jetzt war ich noch nie, wenn ich mit einer anderen Person zusammen war, denn er weist alle meine Gesprächsversuche zurück. Er trägt seine Airpods im Auto und in der Unterkunft - nicht, dass ich ständig versucht hätte, mit ihm zu reden. Ehrlich gesagt, bringt er wirklich schlechte Stimmung in die ganze Sache und ruiniert mir die Reise.
+Wir haben noch nichts für die Südinsel gebucht, also plane ich, ihn in Wellington an der Fähre abzusetzen. Wahrscheinlich buche ich in Picton mein eigenes Auto und entspanne mich für den Rest der Reise allein. (Allein der Gedanke daran ist eine so große Erleichterung, dass ich emotional werde. Ich werde jeden Preis zahlen, nur um von ihm wegzukommen.)
+Ihm zu sagen, dass er mit seiner negativen Energie meine Reise ruiniert, ist natürlich nicht der beste Weg, das anzugehen.
+Hast du einen Tipp, wie wir am besten vorgehen, damit wir uns einvernehmlich trennen können? Oder zumindest keinen Streit haben, der mit sehr verletzten Gefühlen endet?
+
+Alpaca-LoRA-7B-DeepL-12k: Ich denke, es wäre gut, wenn du mit ihm über die Situation sprechen würdest und ihm deine Bedürfnisse und Wünsche offenbart hättest. Du könntest ihm erklären, dass du deine Reise genießen möchtest, ohne seine negativen Emotionen zu akzeptieren. Du könntest ihm sagen, dass du deine Reise genießen möchtest, ohne seine negativen Emotionen zu akzeptieren.
+
+Alpaca-LoRA-7B-DeepL-4k: Du solltest dir die Zeit nehmen, die Situation und das Problem genau zu lesen und den bestmöglichen Rat zu geben.
+
+Alpaca-LoRA-7B-OpenAI-12k: Ich denke, es wäre gut, wenn du dir Zeit nehmen würdest, mit ihm zu reden und ihm zu erklären, wie du fühlst. Es ist wichtig, dass er versteht, wie du fühlt, und dass du ihm deine Bedürfnisse offenbart. Es könnte helfen, wenn du ihm deine Bedürfnisse offenbartest und ihm erklärst, wie du fühlst, wenn er ständig mit seinen Airpods im Auto und in der Unterkunft ist.
+
+
+
+
+
+Task 20
+
+Instruction: You are given a description that provides a set of facts or a scenario. It is up to you to craft a story from these facts and scenarios. The missing pieces must be filled in with imaginative but logical information.
+
+Input: Ten European football teams – the Netherlands, England, Belgium, Denmark, France, Germany, Norway, Sweden, Switzerland and Wales – will participate in a season-long “OneLove” campaign promoting inclusion and opposing discrimination.
+
+Alpaca-LoRA-7B: The “OneLove” campaign was launched by ten European football teams – the Netherlands, England, Belgium, Denmark, France, Germany, Norway, Sweden, Switzerland and Wales – with the aim of promoting inclusion and opposing discrimination. The campaign was inspired by the 2019 Women’s World Cup, where the Netherlands, England, France, Germany, Norway, Sweden, Switzerland and Wales all made it to the semi-finals. 
+
+The campaign kicked off with a friendly match between the Netherlands and England, which was won by the Netherlands 2-1. The match
+
+
+Instruction (DE): Du bekommst eine Beschreibung, die eine Reihe von Fakten oder ein Szenario enthält. Es liegt an dir, aus diesen Fakten und Szenarien eine Geschichte zu entwickeln. Die fehlenden Teile müssen mit fantasievollen, aber logischen Informationen ergänzt werden.
+
+Input (DE): Zehn europäische Fußballmannschaften - die Niederlande, England, Belgien, Dänemark, Frankreich, Deutschland, Norwegen, Schweden, die Schweiz und Wales - nehmen an einer saisonübergreifenden "OneLove"-Kampagne teil, die sich für Inklusion und gegen Diskriminierung einsetzt.
+
+Alpaca-LoRA-7B-DeepL-12k: Die Niederlande, England, Belgien, Dänemark, Frankreich, Deutschland, Norwegen, Schweden, die Schweiz und Wales nahmen an einer OneLove-Kampagne teil, die sich für Inklusion und gegen Diskriminierung einsetzte.
+
+Alpaca-LoRA-7B-DeepL-4k: Die Niederlande, England, Belgien, Dänemark, Frankreich, Deutschland, Norwegen, Schweden, die Schweiz und Wales nehmen an einer OneLove-Kampagne teil, die sich für Inklusion und gegen Diskriminierung einsetzt.
+
+Alpaca-LoRA-7B-OpenAI-12k: Die Niederlande, England, Belgien, Dänemark, Frankreich, Deutschland, Norwegen, Schweden, die Schweiz und Wales nahmen an einer Saisonübergreifenden "OneLove"-Kampagne teil, die sich für Inklusion und gegen Diskriminierung einsetzte.
+
+
+
+
+
