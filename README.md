@@ -1,5 +1,5 @@
 ## Fine-Tune Alpaca For Any Language
-In this repository, I've collected all the sources I used to create the YouTube video and the Medium article on fine-tuning the alpaca model for any language. You can find more details on how to do this in both articles. 
+In this repository, I've collected all the sources I used to create the [YouTube video](https://youtu.be/yTROqe8T_eA) and the [Medium article](https://medium.com/p/370f63753f94) on fine-tuning the alpaca model for any language. You can find more details on how to do this in both articles. 
 
 > Note: This repository is intended to provide additional material to the video. This means that you can't just clone this repository, run three commands, and the fine-tuning is done. This is mainly because the implementation of the Alpaca-LoRA repository is constantly being improved and changed, so it would be difficult to keep the Alpaca-LoRA repository files (which I have partially customized) up-to-date.
 
@@ -24,7 +24,7 @@ python finetune.py --base_model="decapoda-research/llama-7b-hf" --data-path "tra
 python generate_eval.py
 ```
 
-You can see my evaluation results in this [file](./data/evaluation/evaluation_result_first_20.txt).
+You can see my evaluation results in this [file](./data/evaluation/evaluation_result_first_20.txt) or in my [Medium article](https://medium.com/p/8e363a0a99ca).
 
 
 ## Trained Models (Hugging Face)
