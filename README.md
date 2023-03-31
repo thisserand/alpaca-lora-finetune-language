@@ -14,7 +14,7 @@ And these are my translated data sets that I used to fine-tune the Alpaca model:
 - [alpaca-lora-german-7b-deepl-4k](./data/translated/translated_tasks_de_deepl_4k.json)
 - [alpaca-lora-german-7b-openai-12k](./data/translated/translated_tasks_de_openai_12k.json)
 
-Thanks to @JSmithOner for translating the whole dataset (52k tasks) to German using the Google Translator:
+Thanks to [@JSmithOner](https://github.com/JSmithOner) for translating the whole dataset (52k tasks) to German using the Google Translator:
 - [tanslated_tasks_de_google_52k](./data/translated/tanslated_tasks_de_google_52k.json)
 
 ## Fine-Tuning
