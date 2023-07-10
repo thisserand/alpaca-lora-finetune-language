@@ -133,6 +133,7 @@ def train(
         model,
         LORA_WEIGHTS,
         torch_dtype=torch.float16,
+        is_trainable=True
     )
 
     data = load_dataset("json", data_files=data_path)
